@@ -1,0 +1,13 @@
+#root, html, body {
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(21, 32, 43); /* Change to dark background color */
+  color: #fff; /* Change text color to white for dark theme */
+}
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
